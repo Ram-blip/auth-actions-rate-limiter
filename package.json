@@ -29,8 +29,16 @@
     "token-bucket",
     "abuse-prevention"
   ],
-  "author": "",
+  "author": "ramblip",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ram-blip/auth-actions-rate-limiter.git"
+  },
+  "homepage": "https://github.com/Ram-blip/auth-actions-rate-limiter#readme",
+  "bugs": {
+    "url": "https://github.com/Ram-blip/auth-actions-rate-limiter/issues"
+  },
   "engines": {
     "node": ">=18.0.0"
   },
