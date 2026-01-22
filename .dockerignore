@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Build output (will be rebuilt in container)
+dist/
+
+# Tests
+tests/
+coverage/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# npm
+.npm
+*.tgz
+
+# GitHub
+.github/
+
+# Documentation (not needed in container)
+README.md
+LICENSE
