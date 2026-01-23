@@ -1,6 +1,6 @@
 {
   "name": "@ramblip/auth-action-rate-limiter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A modular, policy-driven, in-process rate limiter for abuse prevention in sensitive auth flows",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
