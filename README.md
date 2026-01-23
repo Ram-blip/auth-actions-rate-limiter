@@ -2,8 +2,10 @@
 
 A modular, policy-driven, **in-process** rate limiter for Node.js, designed for abuse prevention in sensitive authentication flows like password reset, registration, and OTP verification.
 
-[![CI](https://github.com/yourusername/auth-action-rate-limiter/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/auth-action-rate-limiter/actions/workflows/ci.yml)
+[![CI](https://github.com/Ram-blip/auth-actions-rate-limiter/actions/workflows/ci.yml/badge.svg)](https://github.com/Ram-blip/auth-actions-rate-limiter/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/@ramblip/auth-action-rate-limiter.svg)](https://www.npmjs.com/package/@ramblip/auth-action-rate-limiter)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen.svg)](https://github.com/Ram-blip/auth-actions-rate-limiter)
 
 ## ⚠️ Important: In-Process Only
 
