@@ -7,6 +7,10 @@ A modular, policy-driven, **in-process** rate limiter for Node.js, designed for 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen.svg)](https://github.com/Ram-blip/auth-actions-rate-limiter)
 
+```bash
+npm install @ramblip/auth-action-rate-limiter
+```
+
 ## ⚠️ Important: In-Process Only
 
 **This library provides rate limiting within a single Node.js process.** Rate limits are NOT shared across multiple instances, containers, or servers.
